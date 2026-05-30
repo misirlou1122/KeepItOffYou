@@ -1,0 +1,14 @@
+{
+  "name": "keep-it-off-you",
+  "version": "1.0.0",
+  "description": "Private beginner study companion for Louisiana Voodoo, Hoodoo, Ifa, Orisha traditions, spirits, and altar care.",
+  "main": "app.js",
+  "scripts": {
+    "start": "python -m http.server 8080 --bind 127.0.0.1 --directory www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
